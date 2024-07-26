@@ -16,6 +16,7 @@
             "developerName": "Florin Stancu",
             "subtitle": "ROBOR, ROBID, IRCC, RON exchange rate, EURIBOR and more",
             "localizedDescription": "Indicus is an application that displays daily values for various economic indices such as ROBOR, ROBID, IRCC, RON exchange rate or EURIBOR. Users can track the performance of these indices, thus making informed decisions regarding their investments and savings.",
+            "marketplaceID": "test",
             "iconURL": "https://indicus.ro/assets/img/gallery/indicus_logo_512.png",
             "tintColor": "#F54F32",
             "category": "utilities",
