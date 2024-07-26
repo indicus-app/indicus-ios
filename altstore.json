@@ -1,0 +1,31 @@
+{
+  "name": "Indicus",
+  "subtitle": "Indicus AltStore source",
+  "description": "Here you can find all Indicus iOS apps that are avaiable in AltStore.",
+  "iconURL": "https://indicus.ro/assets/img/gallery/indicus_logo_512.png",
+  "headerURL": "https://indicus.ro/assets/img/gallery/play_store/feature_graphic.png",
+  "website": "https://indicus.ro/",
+  "tintColor": "#F54F32",
+  "featuredApps": [
+    "ro.indicus"
+  ],
+  "apps": [
+    {
+        "name": "Indicus: Economic Indices",
+        "bundleIdentifier": "ro.indicus",
+        "developerName": "Florin Stancu",
+        "subtitle": "ROBOR, ROBID, IRCC, RON exchange rate, EURIBOR and more",
+        "localizedDescription": "Indicus is an application that displays daily values for various economic indices such as ROBOR, ROBID, IRCC, RON exchange rate or EURIBOR. Users can track the performance of these indices, thus making informed decisions regarding their investments and savings.",
+        "iconURL": "https://indicus.ro/assets/img/gallery/indicus_logo_512.png",
+        "tintColor": "#F54F32",
+        "category": "utilities",
+        "screenshots": [
+            "https://indicus.ro/assets/img/gallery/pixel_6_pro/Screenshot_1679672613.png"
+        ],
+        "versions": [],
+        "appPermissions": {},
+        "patreon": {},
+    }
+  ],
+  "news": [],
+}
