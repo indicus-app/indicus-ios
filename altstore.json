@@ -22,7 +22,18 @@
         "screenshots": [
             "https://indicus.ro/assets/img/gallery/pixel_6_pro/Screenshot_1679672613.png"
         ],
-        "versions": [],
+        "versions": [
+           {
+            "version": "1.1",
+            "buildVersion": "2",
+            "date": "2024-05-25",
+            "localizedDescription": "First AltStore Update!",
+            "downloadURL": "https://myapp.com/myapp-1.1.ipa",
+            "size": 80925,
+            "minOSVersion": "14.0",
+            "maxOSVersion": "16.3"
+          }
+        ]
         "appPermissions": {},
         "patreon": {},
     }
